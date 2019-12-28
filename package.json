@@ -1,0 +1,31 @@
+{
+  "name": "Omnia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naveen Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-data": "^1.2.1",
+    "gulp-if": "^2.0.2",
+    "gulp-imagemin": "^4.0.0",
+    "gulp-nunjucks-render": "^2.2.3",
+    "gulp-sass": "^3.2.1",
+    "gulp-uglify": "^3.0.0",
+    "gulp-useref": "^3.1.3"
+  },
+  "dependencies": {
+    "gulp-install": "^1.1.0",
+    "gulp-nunjucks-render-env": "^0.2.3",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-watch": "^5.0.0",
+    "npm": "^6.1.0",
+    "nunjucks": "^3.1.2"
+  }
+}
